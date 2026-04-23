@@ -1,6 +1,7 @@
 # SnapDB
 
 A lightweight persistent key-value store written in C++.
+Built as a systems programming project to explore storage engines and durability mechanisms.
 
 ## Features
 
